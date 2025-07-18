@@ -12,6 +12,8 @@ Mentions completion of an honors degree focused on Business Information Technolo
 
 University of Tourism, Business and Technologies Studies, UTB, Kigali, Rwanda (September 2021 – August 2025)
 Bachelor’s in Business Information Technology.
+
+
 ALX Kigali Hub (January 13 – August 13, 2025)
 Certificate, Professional Foundation, Data Analyst (Ongoing).
 
@@ -19,8 +21,11 @@ Certificate, Professional Foundation, Data Analyst (Ongoing).
 
 System Administrator Intern, Rwanda Solution Hub (May 2024 – August 2024)
 Responsibilities include maintaining IT infrastructure, resolving technical issues, supporting cybersecurity measures, and regular data backups.
+
+
 International Student Representative, UTB (August 2021 – May 2024)
 Managed community-building programs for 300+ students, handled administrative duties for 42 students, and received outstanding feedback.
+
 Computer Laboratory Assistant Intern, UTB (May 2019 – August 2019)
 Supported software/hardware issues for students and staff, updated software, enforced lab rules, and guided on computer usage.
 Volunteer Activities:
@@ -41,7 +46,7 @@ Technology & Innovation
 Digital Advocacy
 Regional Development
 
-### Languages:
+## Languages:
 
 English - Native
 English - Expert
