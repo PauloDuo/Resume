@@ -53,7 +53,7 @@ Enabled 40+ college youth to overcome career challenges through an intensive car
 - Chinese - Conversational
 
 ## Word copy of my resume
-[Download here](https://www.google.com)
+[Download here](https://docs.google.com/document/d/1sdy5C8YQaWlvQeIiHr-RGAuMppnwLNw7/edit?usp=sharing&ouid=106142965577987735189&rtpof=true&sd=true)
 
 
 
